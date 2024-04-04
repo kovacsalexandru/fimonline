@@ -1,0 +1,31 @@
+{
+    "update_enforcement": "not_mandatory",
+    "message": "\nNew Features and Improvements... You can also install manually from flixvision.app\n",
+    "version_code": "45",
+    "version_name": "v2.7.3r",
+    "apk_url": "https://github.com/fvision8/fvreleases/releases/download/v2.7.3.r/FlixVision_v2.7.3r.apk",
+    "iptv_url":"https://raw.githubusercontent.com/kovacsalexandru/aks/901c0c041a606779bff736b0507e4c7193d194ce/STORBA%20UJ%20TOKEN.m3u",
+    "anime_domain":"https://filmy.hu",
+    "live_tv_main_active":true,
+    "ml_host":"https://friness-cherlormur-i-275.site",
+    "autoembed":"https://autoembed.co",
+    "ads":true,
+    "MovieRulzHindi":"https://mozimix.com/",
+    "anime_ajax_host":"https://mozimix.com/",
+    "unity_ads":true,
+    "janint":true,
+    "load_logos":true,
+    "futumov_pattern":true,
+    "secure_gomov":false,
+    "ads_delay":30,
+    "playlists": [
+        {
+          "url":"https://raw.githubusercontent.com/kovacsalexandru/aks/901c0c041a606779bff736b0507e4c7193d194ce/STORBA%20UJ%20TOKEN.m3u",
+          "name":"#IPTV-ORG by Country"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/kovacsalexandru/aks/901c0c041a606779bff736b0507e4c7193d194ce/STORBA%20UJ%20TOKEN.m3u",
+          "name":"#IPTV-ORG by Category"
+        }
+      ]
+}
